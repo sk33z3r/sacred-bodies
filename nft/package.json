@@ -1,0 +1,21 @@
+{
+  "name": "sacred-bodies-nft",
+  "version": "1.0.0",
+  "description": "Collection of items generated from Hubble images, Sacred Geometry and Chakras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "@openzeppelin/contracts": "^4.4.1",
+    "dotenv": "^10.0.0"
+  }
+}
